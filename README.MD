@@ -1,6 +1,6 @@
 the B.L.U.E Road V.0.1
 
-A decentralised & comprehensive "how to" B.L.U.E system. Get in depth real time constantly updated user generated tutorial on life. This B.L.U.E site is operated by the RAAN society
+A decentralised & comprehensive "how to" B.L.U.E system. Get in depth real time constantly updated user generated tutorial on life. This B.L.U.E site is operated by the RAAN society. To join the society, a private forum will be sent to you after you have been vetted
 
 Other noteable B.L.U.E Systems with MAU(Most active users) main board (managed by site admins):
 
